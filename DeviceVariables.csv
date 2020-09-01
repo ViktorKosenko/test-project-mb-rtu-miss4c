@@ -1,0 +1,57 @@
+name,address,type,access
+Set Channel #1,404401,Word,R/W
+Channel #1 ADC,404403,Long,RO
+Channel #1 Division,404407,Float,R/W
+Channel #1 Value,404411,Float,RO
+Channel #1 mV/V,404415,Word,R/W
+Channel #1 Shift,404417,Long,RO
+Channel #1 TareKg,404421,Float,RO
+Channel #1 TareShift,404425,Long,RO
+Channel #1 sensor input resistance,404429,Float,R/W
+Channel #1 sensor output resistance,404433,Float,R/W
+Channel #1 Capacity,404437,Float,R/W
+Channel #1 measure unit,404441,Char,R/W
+Channel #1 Overload,404443,Char,R/W
+Channel #1 CalibEtelon,404445,Float,R/W
+Set Channel #2,404501,Word,R/W
+Channel #2 ADC,404503,Long,RO
+Channel #2 Division,404507,Float,R/W
+Channel #2 Value,404511,Float,RO
+Channel #2 mV/V,404515,Word,R/W
+Channel #2 Shift,404517,Long,RO
+Channel #2 TareKg,404521,Float,RO
+Channel #2 TareShift,404525,Long,RO
+Channel #2 sensor input resistance,404529,Float,R/W
+Channel #2 sensor output resistance,404533,Float,R/W
+Channel #2 Capacity,404537,Float,R/W
+Channel #2 measure unit,404541,Char,R/W
+Channel #2 Overload,404543,Char,R/W
+Channel #2 CalibEtelon,404445,Float,R/W
+Set Channel #3,404601,Word,R/W
+Channel #3 ADC,404603,Long,RO
+Channel #3 Division,404607,Float,R/W
+Channel #3 Value,404611,Float,RO
+Channel #3 mV/V,404615,Word,R/W
+Channel #3 Shift,404617,Long,RO
+Channel #3 TareKg,404621,Float,RO
+Channel #3 TareShift,404625,Long,RO
+Channel #3 sensor input resistance,404629,Float,R/W
+Channel #3 sensor output resistance,404633,Float,R/W
+Channel #3 Capacity,404637,Float,R/W
+Channel #3 measure unit,404641,Char,R/W
+Channel #3 Overload,404643,Char,R/W
+Channel #3 CalibEtelon,404645,Float,R/W
+Set Channel #4,404701,Word,R/W
+Channel #4 ADC,404703,Long,RO
+Channel #4 Division,404707,Float,R/W
+Channel #4 Value,404711,Float,RO
+Channel #4 mV/V,404715,Word,R/W
+Channel #4 Shift,404717,Long,RO
+Channel #4 TareKg,404721,Float,RO
+Channel #4 TareShift,404725,Long,RO
+Channel #4 sensor input resistance,404729,Float,R/W
+Channel #4 sensor output resistance,404733,Float,R/W
+Channel #4 Capacity,404737,Float,R/W
+Channel #4 measure unit,404741,Char,R/W
+Channel #4 Overload,404743,Char,R/W
+Channel #4 CalibEtelon,404745,Float,R/W

@@ -1,0 +1,21 @@
+{
+    "name": "mb-rtu-miss4c",
+    "description": "Reading and writing variables by MB RTU (USB-converterRS485) to miss4c",
+    "version": "0.0.1",
+    "dependencies": {
+        "node-red-contrib-modbus": "5.13.3",
+        "red-contrib-building-context-variables": "0.0.1"
+    },
+    "keywords": [
+        "node-red",
+        "Modbus serial",
+        "Modbus RTU",
+        "miss4c"
+    ],
+    "node-red": {
+        "settings": {
+            "flowFile": "mb-rtu-miss4c.json",
+            "credentialsFile": "mb-rtu-miss4c_cred.json"
+        }
+    }
+}
