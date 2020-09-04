@@ -7,6 +7,4 @@ Allows you to read and write variables via modbus-serial into global variables, 
 
 Testing occurs when reading and writing variables via USBtoModbusSerial to the weight controller - miss4c.
 
-Version 0.0.1
-
-tags: MB RTU, Modbus serial, miss4c 
+Version 0.0.5
