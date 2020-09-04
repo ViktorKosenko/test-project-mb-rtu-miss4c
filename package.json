@@ -3,8 +3,10 @@
     "description": "Reading and writing variables by MB RTU (USB-converterRS485) to miss4c",
     "version": "0.0.1",
     "dependencies": {
+        "node-red-contrib-miss4c": "0.0.5",
         "node-red-contrib-modbus": "5.13.3",
-        "red-contrib-building-context-variables": "0.0.1"
+        "node-red-dashboard": "2.23.2",
+        "node-red-node-ui-table": "0.3.4"
     },
     "keywords": [
         "node-red",
